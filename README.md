@@ -1,4 +1,6 @@
 # pi-photo-booth
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmaffulli%2Fpi-photo-booth.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmaffulli%2Fpi-photo-booth?ref=badge_shield)
+
 Automatically exported from code.google.com/p/pi-photo-booth
 
 Raspberry Pi Photo Booth software written in Python.
@@ -44,3 +46,7 @@ Hardware Used
 Video of my prototype - https://www.youtube.com/watch?v=BvRVFNYOtuU
 
 Sample Printout: http://i.imgur.com/OrlO5hd.jpg?1
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmaffulli%2Fpi-photo-booth.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmaffulli%2Fpi-photo-booth?ref=badge_large)
